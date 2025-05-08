@@ -1,4 +1,4 @@
-# TypeScript Interview Essentials: `keyof`, Union, and Intersection Types Explained
+# `keyof`, Union, and Intersection Types Explained
 
 TypeScript is a powerful superset of JavaScript that introduces static typing. In this blog, we’ll cover two commonly asked interview topics:
 1. The `keyof` keyword in TypeScript.
